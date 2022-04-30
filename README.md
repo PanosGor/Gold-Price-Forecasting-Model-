@@ -24,6 +24,7 @@ Gold prediction model in R
 
 ![image](https://user-images.githubusercontent.com/82097084/166111237-7740028b-393c-4271-9189-f9c5a6fa78ca.png)
 
-![image](https://user-images.githubusercontent.com/82097084/166111244-cc0c8e71-f9e0-4747-922c-70c5309c7f98.png)
+![image](https://user-images.githubusercontent.com/82097084/166111275-a3009e32-2b91-4b89-80ca-f89de6960181.png)
+
 
 

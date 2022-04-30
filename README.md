@@ -35,9 +35,12 @@ Gold prediction model in R
 
 ![image](https://user-images.githubusercontent.com/82097084/166111397-f460c60d-e594-470b-b8c2-039b1429489f.png)
 
-![image](https://user-images.githubusercontent.com/82097084/166111407-b6ac5533-3ff6-4eac-a7c4-2c5ff0f7b568.png)
+![image](https://user-images.githubusercontent.com/82097084/166111444-d32ae552-2dfb-4311-980b-c56662ec0a43.png)
 
+## Conclusion 
 
+- From September 2010 to September 2011, gold prices jumped 50.6 percent, mainly the result of speculation surrounding an uneven recovery and volatility in the U.S. financial markets, with gold reaching an all-time high of $1,917.90 per ounce in August 2011.
+- It is possible in the future a likewise event might cause a similar spike, which will through all forecasting models off, because factors like market crush cannot be predicted
 
 
 

@@ -26,5 +26,18 @@ Gold prediction model in R
 
 ![image](https://user-images.githubusercontent.com/82097084/166111275-a3009e32-2b91-4b89-80ca-f89de6960181.png)
 
+## Forecasting evaluation
+
+- After applying the forecasting of ARIMA we exported the accuracy results
+- The MAPE of 3,55 gives a very good forecast error result
+- Based on our calculations we compared the realized price of Gold after 6 months with our forecasted price
+- Based on the ROI calculated of 5,08% and the MAPE of 3,55%, an investment would be justified
+
+![image](https://user-images.githubusercontent.com/82097084/166111397-f460c60d-e594-470b-b8c2-039b1429489f.png)
+
+![image](https://user-images.githubusercontent.com/82097084/166111407-b6ac5533-3ff6-4eac-a7c4-2c5ff0f7b568.png)
+
+
+
 
 
